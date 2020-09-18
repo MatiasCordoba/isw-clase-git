@@ -5,4 +5,5 @@ Repo de ejemplo clase ISW.
 - Un ejemplo en git
 
 ## Contacto
-- MatiasCordoba -> Owner
+- Rodri -> rodrigobravo@gmail.com 
+- MatiasCordoba -> matiasmato@gmail.com
