@@ -5,4 +5,4 @@ Repo de ejemplo clase ISW.
 - Un ejemplo en git
 
 ## Contacto
-- MatiasCordoba
+Rodri -> rodrigobravo@gmail.com 
