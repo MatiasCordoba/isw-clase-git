@@ -2,7 +2,7 @@
 Repo de ejemplo clase ISW.
 
 ## Objetivo
-- Un ejemplo en git. Ejemplo.
+- Un ejemplo en git.
 
 ## Contacto
 - Rodri -> rodrigobravo@gmail.com 
